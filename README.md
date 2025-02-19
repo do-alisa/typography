@@ -1,1 +1,1 @@
-# web-fonts
+In this project, I modified the typography on a fictional site, changing the size, style, and font families, to make the page easier to read. I learned all about CSS typography, such as how to include fonts from other sources and how to style your text.
